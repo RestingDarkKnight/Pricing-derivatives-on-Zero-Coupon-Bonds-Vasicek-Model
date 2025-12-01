@@ -130,4 +130,15 @@ $$
 d_2 = d_1 - \sigma\sqrt{T}
 $$
 
+pip install -r requirements.txt
+
+python examples/run_pipeline.py
+
+python examples/run_swaption.py
+
+
+MIT License
+
+Copyright (c) 2025
+Pravir Pandao
 

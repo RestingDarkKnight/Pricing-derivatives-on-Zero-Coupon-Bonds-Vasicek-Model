@@ -1,5 +1,5 @@
 
-# Pricing-derivatives-on-Zero-Coupon-Bonds-Vasicek-Model
+# Pricing derivatives on Zero Coupon Bonds with Vasicek Model
 
 # Bond Pricing & Vasicek Model
 
